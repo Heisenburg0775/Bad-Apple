@@ -1,0 +1,17 @@
+{
+  "name": "image-to-ascii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-cursor": "^3.1.0",
+    "jimp": "^0.22.8",
+    "term-size": "^2.2.1"
+  }
+}
